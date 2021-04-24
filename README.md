@@ -17,7 +17,7 @@ of video, 20 chapters, 160 lectures.
 ## Ruby on Rails 6 boilerplate apps:
 
 * 💾 [Corsego](https://corsego.com) - Ruby on Rails 6 e-Learning platform (Udemy clone)
-* 💾 [CorsegoSaaS](https://saas.corsego.com) - Ruby on Rails row-based multitenancy SaaS template
+* 💾 [CorsegoSaaS](https://saas.corsego.com) - Ruby on Rails row-based multitenancy SaaS template **JumpstartPRO alternative**
 
 ****
 
