@@ -2,7 +2,7 @@
 
 🧐 I'm a Ruby and Rails developer building product MVPs and tutorials.
 
-* 📺 [Superails.com](http://superails.com) - Ruby on Rails screencasts by ME
+* 📺 [Superails.com](http://youtube.com/supeRails) - Ruby on Rails screencasts by ME
 * 📕 [My Ruby on Rails blog](https://blog.corsego.com)
 
 ## Ruby on Rails 6 courses by me:
