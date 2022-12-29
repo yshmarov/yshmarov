@@ -2,6 +2,7 @@
 
 ### I 💙💛 Ruby & Rails
 
+### Check out my latest video & text RoR tutorials:
 * 📺 [SupeRails - my Youtube Channel](https://www.youtube.com/@SupeRails)
 * 📕 [My Ruby on Rails blog](https://blog.corsego.com)
 
