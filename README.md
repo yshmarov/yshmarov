@@ -3,6 +3,7 @@
 ### I 💙💛 Ruby & Rails
 
 ### Check out my latest video & text RoR tutorials:
+* [SupeRails.com](https://superails.com) - Code-Along Ruby on Rails tutorials
 * 📺 [SupeRails - my Youtube Channel](https://www.youtube.com/@SupeRails)
 * 📕 [My Ruby on Rails blog](https://blog.corsego.com)
 
@@ -31,3 +32,5 @@
 <a href="https://blog.corsego.com/feed.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/yshmarov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/SupeRails" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+
+* [Oembed checker](https://oembed.superails.com) - Get Youtube, Vimeo, Wistia video thumbnail & other metadata
