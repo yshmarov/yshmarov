@@ -16,10 +16,10 @@
 
 ### 💎 My Rails gems
 
-* [livechat](https://github.com/yshmarov/livechat) - Drop-in live chat widget + team inbox. Self-hosted alternative to Crisp, Intercom, Chatwoot
-* [testimonials](https://github.com/yshmarov/testimonials) - Testimonials, reviews and NPS: in-app collection widget (text + video), public page, triage dashboard. Self-hosted alternative to Testimonial.to / Senja
-* [i18n_proofreading](https://github.com/yshmarov/i18n_proofreading) - In-context i18n proofreading: click any translated string in your running app and suggest a better wording
-* [ideasbugs](https://github.com/yshmarov/ideasbugs) - In-app product feedback collection: drop-in widget + built-in triage dashboard. Self-hosted alternative to Canny
+* 💬 [livechat](https://github.com/yshmarov/livechat) - Drop-in live chat widget + team inbox. Self-hosted alternative to Crisp, Intercom, Chatwoot
+* ⭐ [testimonials](https://github.com/yshmarov/testimonials) - Testimonials, reviews and NPS: in-app collection widget (text + video), public page, triage dashboard. Self-hosted alternative to Testimonial.to / Senja
+* 🌍 [i18n_proofreading](https://github.com/yshmarov/i18n_proofreading) - In-context i18n proofreading: click any translated string in your running app and suggest a better wording
+* 💡 [ideasbugs](https://github.com/yshmarov/ideasbugs) - In-app product feedback collection: drop-in widget + built-in triage dashboard. Self-hosted alternative to Canny
 
 ### Contact me
 
