@@ -14,6 +14,13 @@
 * 3 📺 [Udemy: Ruby on Rails 6: Build a School Management App MVP](https://www.udemy.com/course/ruby-on-rails-authentication-authorization-mvp/?referralCode=109A287566701D9AF3CC). **Great for learning business logic**
 * 4 📺 [Udemy: Complete guide to Stripe Payments and Subscriptions with Ruby on Rails](https://www.udemy.com/course/complete-guide-to-payments-with-ruby-on-rails-stripe-api/?referralCode=41A5A2FC554CFE261894) **If you want to create a SaaS/ecommerce business**
 
+### 💎 My open-source Rails gems
+
+* [livechat](https://github.com/yshmarov/livechat) - Drop-in live chat widget + team inbox. Self-hosted alternative to Crisp, Intercom, Chatwoot
+* [testimonials](https://github.com/yshmarov/testimonials) - Testimonials, reviews and NPS: in-app collection widget (text + video), public page, triage dashboard. Self-hosted alternative to Testimonial.to / Senja
+* [i18n_proofreading](https://github.com/yshmarov/i18n_proofreading) - In-context i18n proofreading: click any translated string in your running app and suggest a better wording
+* [ideasbugs](https://github.com/yshmarov/ideasbugs) - In-app product feedback collection: drop-in widget + built-in triage dashboard. Self-hosted alternative to Canny
+
 ### Contact me
 
 <a href="https://www.linkedin.com/in/yshmarov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
