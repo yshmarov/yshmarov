@@ -14,7 +14,7 @@
 * 3 📺 [Udemy: Ruby on Rails 6: Build a School Management App MVP](https://www.udemy.com/course/ruby-on-rails-authentication-authorization-mvp/?referralCode=109A287566701D9AF3CC). **Great for learning business logic**
 * 4 📺 [Udemy: Complete guide to Stripe Payments and Subscriptions with Ruby on Rails](https://www.udemy.com/course/complete-guide-to-payments-with-ruby-on-rails-stripe-api/?referralCode=41A5A2FC554CFE261894) **If you want to create a SaaS/ecommerce business**
 
-### 💎 My open-source Rails gems
+### 💎 My Rails gems
 
 * [livechat](https://github.com/yshmarov/livechat) - Drop-in live chat widget + team inbox. Self-hosted alternative to Crisp, Intercom, Chatwoot
 * [testimonials](https://github.com/yshmarov/testimonials) - Testimonials, reviews and NPS: in-app collection widget (text + video), public page, triage dashboard. Self-hosted alternative to Testimonial.to / Senja
