@@ -5,7 +5,7 @@
 ### Check out my latest video & text RoR tutorials:
 * [SupeRails.com](https://superails.com) - Code-Along Ruby on Rails tutorials
 * 📺 [SupeRails - my Youtube Channel](https://www.youtube.com/@SupeRails)
-* 📕 [My Ruby on Rails blog](https://blog.corsego.com)
+* 📕 [My Ruby on Rails blog](https://blog.superails.com)
 
 ### I've created a few GREAT Code-along Ruby on Rails courses:
 
@@ -27,7 +27,7 @@
 
 ### Follow/Socials
 
-<a href="https://blog.corsego.com/feed.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
+<a href="https://blog.superails.com/feed.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/SupeRails" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 
 * [Oembed checker](https://oembed.superails.com) - Get Youtube, Vimeo, Wistia video thumbnail & other metadata
