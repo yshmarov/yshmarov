@@ -20,6 +20,7 @@
 * ⭐ [testimonials](https://github.com/yshmarov/testimonials) - Testimonials, reviews and NPS: in-app collection widget (text + video), public page, triage dashboard. Alternative to Testimonial.to / Senja — inside your Rails app
 * 🌍 [i18n_proofreading](https://github.com/yshmarov/i18n_proofreading) - In-context i18n proofreading: click any translated string in your running app and suggest a better wording
 * 💡 [ideasbugs](https://github.com/yshmarov/ideasbugs) - In-app product feedback collection: drop-in widget + built-in triage dashboard. Alternative to Canny — inside your Rails app
+* 🧭 [product_tours](https://github.com/yshmarov/product_tours) - Self-hosted product tours and video tutorials: publish in-app guides, link them into Next/Back walkthroughs, open them from your own buttons. Alternative to Userpilot / Appcues / Intercom Product Tours — inside your Rails app
 
 ### Contact me
 
